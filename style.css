@@ -1,0 +1,86 @@
+body {
+
+text-align:center;
+background-image: url("https://images-na.ssl-images-amazon.com/images/I/61EtSQ7KqqL._AC_SX355_.jpg");
+
+}
+
+#player1 {
+
+border-width: 10px;
+border-style:ridge;
+width:500;
+margin-left: 400px;
+padding-bottom:5px;
+border-radius:20px;
+margin-top:30px;
+background-color: turquoise;
+border-color:teal;
+color:teal;
+
+}
+
+#player2 {
+ 
+    margin-top:20px;
+    border-width: 10px;
+    border-style:ridge;
+    width:500px;
+    margin-left:400px;
+    padding-bottom:5px;
+    border-radius:20px;
+    background-color:orangered;
+    border-color: darkred;
+    color:darkred;
+
+    }
+
+#p1-u {
+
+border-radius: 30px;
+width:400px;
+text-align: center;
+border-width:5px;
+border-style:groove;
+border-color: teal;
+
+}
+
+#p2-u {
+
+    border-radius: 30px;
+    width:400px;
+    text-align: center;
+    border-width:5px;
+    border-style:groove;
+    border-color: darkred;
+    
+    }
+
+    #title {
+
+    border-width: 5px;
+    border-style:ridge;
+    border-radius:20px;
+    width:500px;
+    margin-left: 405px;
+    background-color:yellow;
+    border-color:gold;
+    color:goldenrod;
+
+    }
+
+    #login {
+
+    margin-top: 20px;
+    height:40px;
+    width:100px;
+    font-size:large;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 40px;
+    background-color:greenyellow;
+    border-color: green;
+    
+
+    }
